@@ -7,7 +7,7 @@ every move according to the official rules of chess.
 
 ## Team
 
-- Miray Kılıçaslan – [@miraykilicaslan](https://github.com/miraykilicaslan)
+- Betül Miray Kılıçaslan – [@miraykilicaslan](https://github.com/miraykilicaslan)
 - Hilal Sena Demirel – [@laldrell](https://github.com/laldrell)
 - Buse Güler – [@buse2791g](https://github.com/buse2791g)
 
